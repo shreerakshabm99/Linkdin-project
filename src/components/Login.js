@@ -25,7 +25,6 @@ export default function Login(){
                                 setIsActive(true);
                             }
                         }>Sign up</a></p>
-
                     </div>
 
                 </form>
